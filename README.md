@@ -4,7 +4,7 @@ A dark color scheme for vim.
 
 ## Install
 
-Copy `broduo.vim` to `~/.vim/colors`.
+Copy `broduo.vim` to your `~/.vim/colors` directory.
 
 ## Usage
 
