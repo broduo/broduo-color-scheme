@@ -2,6 +2,8 @@
 
 A dark color scheme for Vim.
 
+![Broduo Color Scheme Screenshot](screenshot.png "Screenshot")
+
 ## Install
 
 Copy `broduo.vim` to your `~/.vim/colors` directory.
