@@ -1,6 +1,6 @@
 # Broduo Color Scheme
 
-A dark color scheme for vim.
+A dark color scheme for Vim.
 
 ## Install
 
@@ -12,7 +12,7 @@ To set **broduo** as your default color scheme, add `colorscheme broduo` to
 your .vimrc file.
 
 If you want to test the color scheme first, type `:colorscheme broduo` inside
-vim.
+Vim.
 
 ## License
 
